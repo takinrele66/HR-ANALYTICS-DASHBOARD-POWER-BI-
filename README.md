@@ -8,6 +8,22 @@
 ### **Scope**
 
 
+### **Data Source**
+ * Dataset is provided as an  excel file for a Sales Analysis dashboard, which was downloaded and processed
+
+### **Tools**
+ * **microsoft Excel:** Utilized for preliminary data correction,cleaning and initial review of the dataset
+
+* Pivot table
+* Dashboard creation
+### **Deliverables**
+* A word document report on “MS EXCEL Process"
+
+
+### **Explanatory Data Analysis (EDA)**
+* In the EDA, We will examine the sales analysis dataset to address key sales trend and questions that can impact increase sales. this insight will help identify potential areas for improvement and facilitate data driven decision making.
+***
+
 ### **methodology**
 * Data Collected as an Excel file
 
