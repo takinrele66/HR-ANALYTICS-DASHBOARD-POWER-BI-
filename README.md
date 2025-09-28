@@ -6,7 +6,7 @@
 *  Create a comprehensive dashboard to analyze sales performance across regions, Sales margines, products, and time periods. The goal is to provide actionable insights for stakeholders to improve business strategies. Key Insights: Top-performing regions and products.
 
 ### **Scope**
-
+https://1drv.ms/w/c/1827ee5aac991650/EXsQR5IOQghOqT9CIWUYb2UBEeAiArhpf_3yAfZTdGzW0A?e=beirqj
 
 ### **Data Source**
  * Dataset is provided as an  excel file for a Sales Analysis dashboard, which was downloaded and processed
